@@ -1,0 +1,53 @@
+{
+    "product":[
+        {
+         "img1":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myntra.com%2Fwatches%2Ftitan%2Ftitan-raga-women-peach-coloured-mother-of-pearl-analogue-watch-2540wm05%2F1604179%2Fbuy&psig=AOvVaw2gMv3zZLeU-oK5ieWI_NWx&ust=1752062633857000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDAsoOfrY4DFQAAAAAdAAAAABAE",
+         "id":1,
+         "name":"Titan",
+         "category":"Watch",
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "price":3000
+        },
+        {
+         "img1":"https://picsum.photos/260/300",
+         "id":2,
+         "name":"Sonata",
+         "category":"Watch",
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "price":300
+
+        },
+        {
+         "img1":"https://picsum.photos/250/300",
+         "id":3,
+         "name":"Dell",
+         "category":"Laptop",
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "price":30000
+        },
+        {
+         "img1":"https://picsum.photos/251/300",
+         "id":4,
+         "name":"HP",
+         "category":"Laptop",
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "price":30000
+        },
+        {
+         "img1":"https://picsum.photos/300/300",
+         "id":5,
+         "name":"iphone",
+         "category":"SmartPhone",
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "price":100000
+        },
+        {
+        "img1":"https://picsum.photos/200/390",
+         "id":6,
+         "name":"Samsung",
+         "category":"TV",
+         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "price":30000
+        }
+    ]
+}
